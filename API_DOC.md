@@ -3,7 +3,7 @@
 ## 🏠 Base URL
 
 ```
-http://localhost:3000/api
+https://classroom-ms9i.onrender.com
 ```
 *(Replace with your deployed URL, e.g., `https://your-app-name.onrender.com/api`)*
 
